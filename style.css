@@ -10,6 +10,7 @@ color: orange;
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -28,4 +29,13 @@ width: 70%;
 }
 .top-banner{background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-big{
+    color: green;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.blue-color{
+    color: rgba(255, 68, 0, 0.842);
 }
